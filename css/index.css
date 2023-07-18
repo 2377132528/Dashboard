@@ -38,9 +38,9 @@ body {
 }
 
 #restart {
-  width: 9em;
-  height: 9em;
-  line-height: 9em;
+  width: 10em;
+  height: 10em;
+  line-height: 10em;
   position: absolute;
   border-radius: 50%;
   color: white;
